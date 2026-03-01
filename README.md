@@ -3,7 +3,7 @@
 > Backend Engineer in making | Java & Spring Boot | MCA @ OUTR 🎓  
 > Developer actively transitioning into Open Source Contributor.
 
-## About Me :
+### About Me :
 
 My work, projects, and tools below reflect what I actively build and explore.
 
@@ -11,7 +11,7 @@ Portfolio : [www.asutoshsahoo.co.in](https://asutoshsahoo.co.in)
 My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQhf3WcWR34mSn/view?usp=sharing)
 
 
-## Teck Stacks I've explored yet...
+### Tools and Tech Stacks I've explored yet...
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -68,7 +68,7 @@ My Resume : [Resume Link](https://drive.google.com/file/d/1QnSdT2MrI4v37GAMm7hQh
 
 <div align="center">
   
-# Let's connect !  
+### Let's connect !  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asutoshsahoo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dear.asutosh)
